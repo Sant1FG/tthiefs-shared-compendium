@@ -1,7 +1,7 @@
 {
   "id": "tthiefs-shared-compendium",
   "title": "Tthief's-shared-compendium",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -49,5 +49,8 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/Sant1FG/tthiefs-shared-compendium",
+  "download": "https://github.com/Sant1FG/tthiefs-shared-compendium/archive/refs/tags/1.1.0.zip",
+  "manifest": "https://github.com/Sant1FG/tthiefs-shared-compendium/releases/latest/download/module.json"
 }
